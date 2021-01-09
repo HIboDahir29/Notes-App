@@ -3,13 +3,13 @@ const notes = [{
   body: 'I would like to go to Norway'
 }, {
   title: 'Habbits to work on',
-  body: 'Exercise. Eating a bit better, Save Money, Read More, Code Daily!'
+  body: 'Exercise. Eating healthy Save Money, Read More, Code Daily!'
 }, {
   title: 'Career',
-  body: 'Work in Youtube'},
+  body: 'Work in Tech'},
 {
-  title:'Moving out',
-  body:'Move to California'
+  title:'Travel',
+  body:'Travel a bit'
 }
 ]
 
